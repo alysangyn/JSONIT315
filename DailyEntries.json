@@ -12,10 +12,9 @@
       "physicalActivity": "Went for a jog",
       "energyLevel": "High",
       "meals": ["Breakfast - Pancakes", "Lunch - Salad", "Dinner - Pasta"],
-      "socialInteractions": "Met friends for lunch",
-      "stressLevel": "Low",
-      "productivity": "Completed all tasks",
-      "gratitude": "Thankful for spending time with friends"
+      "gratitude": "Thankful for spending time with friends",
+      "VSaddress": "13924 Metrotech Dr, Chantilly, VA 20151",
+      "website": "https://www.headspace.com/meditation"
     },
     {
       "entryNumber": 2,
@@ -29,10 +28,9 @@
       "physicalActivity": "Went for a walk",
       "energyLevel": "Low",
       "meals": ["Breakfast - Waffles", "Lunch - Sandwich", "Dinner - Soup"],
-      "socialInteractions": "Had a video call with family",
-      "stressLevel": "Moderate",
-      "productivity": "Managed to finish some work tasks",
-      "gratitude": "Grateful for my supportive family"
+      "gratitude": "Grateful for my supportive family",
+      "VSaddress": "14106 Lee Hwy, Centreville, VA 20120",
+      "website": "https://www.amazon.com"
     },
     {
       "entryNumber": 3,
@@ -46,10 +44,9 @@
       "physicalActivity": "Gym workout",
       "energyLevel": "High",
       "meals": ["Breakfast - Smoothie", "Lunch - Burrito", "Dinner - Sushi"],
-      "socialInteractions": "Caught up with an old friend",
-      "stressLevel": "Low",
-      "productivity": "Productive and finished all my goals",
-      "gratitude": "Thankful for opportunities"
+      "gratitude": "Thankful for opportunities",
+      "VSaddress": "2910 District Ave, Fairfax, VA 22031",
+      "website": "https://www.alltrails.com"
     },
     {
       "entryNumber": 4,
@@ -63,10 +60,9 @@
       "physicalActivity": "Light stretching",
       "energyLevel": "Low",
       "meals": ["Breakfast - Cereal", "Lunch - Pizza", "Dinner - Burger"],
-      "socialInteractions": "Had a heated discussion",
-      "stressLevel": "High",
-      "productivity": "Struggled to focus",
-      "gratitude": "Grateful for having time to relax in the evening"
+      "gratitude": "Grateful for having time to relax in the evening",
+      "VSaddress": "7112 Columbia Pike, Annandale, VA 22003",
+      "website": "https://www.reebok.com"
     },
     {
       "entryNumber": 5,
@@ -80,10 +76,9 @@
       "physicalActivity": "Swimming",
       "energyLevel": "Moderate",
       "meals": ["Breakfast - Toast", "Lunch - Salad", "Dinner - Grilled Chicken"],
-      "socialInteractions": "Spent time alone",
-      "stressLevel": "Very Low",
-      "productivity": "No major tasks planned",
-      "gratitude": "Thankful for a peaceful day"
+      "gratitude": "Thankful for a peaceful day",
+      "VSaddress": "920 W Broad St, Falls Church, VA 22046",
+      "website": "https://www.spafinder.com"
     },
     {
       "entryNumber": 6,
@@ -97,10 +92,9 @@
       "physicalActivity": "Light stretching",
       "energyLevel": "Very Low",
       "meals": ["Breakfast - Coffee and Bagel", "Lunch - Sandwich", "Dinner - Pasta"],
-      "socialInteractions": "Minimal interactions at work",
-      "stressLevel": "High",
-      "productivity": "Barely completed essential tasks",
-      "gratitude": "Grateful for a quiet evening"
+      "gratitude": "Grateful for a quiet evening",
+      "VSaddress": "13915 Metrotech Dr, Chantilly, VA 20151",
+      "website": "https://www.barnesandnoble.com"
     },
     {
       "entryNumber": 7,
@@ -114,10 +108,9 @@
       "physicalActivity": "Short walk",
       "energyLevel": "Moderate",
       "meals": ["Breakfast - Oatmeal", "Lunch - Grilled Cheese", "Dinner - Salmon"],
-      "socialInteractions": "Shared ideas with a friend",
-      "stressLevel": "Moderate",
-      "productivity": "Drafted an outline for the project",
-      "gratitude": "Grateful for supportive friends"
+      "gratitude": "Grateful for supportive friends",
+      "VSaddress": "5718 Pickwick Rd, Centreville, VA 20121",
+      "website": "https://www.notion.so"
     },
     {
       "entryNumber": 8,
@@ -131,10 +124,9 @@
       "physicalActivity": "Yoga",
       "energyLevel": "Low",
       "meals": ["Breakfast - Cereal", "Lunch - Salad", "Dinner - Stir Fry"],
-      "socialInteractions": "Quick chat with coworkers",
-      "stressLevel": "High",
-      "productivity": "Met the deadlines",
-      "gratitude": "Grateful for completing the day"
+      "gratitude": "Grateful for completing the day",
+      "VSaddress": "6920A Bradlick Shopping Ctr, Annandale, VA 22003",
+      "website": "https://www.calm.com"
     },
     {
       "entryNumber": 9,
@@ -148,10 +140,9 @@
       "physicalActivity": "Dancing",
       "energyLevel": "High",
       "meals": ["Breakfast - Eggs and Toast", "Lunch - Tacos", "Dinner - Pizza"],
-      "socialInteractions": "Gathered with friends",
-      "stressLevel": "Low",
-      "productivity": "Relaxed day",
-      "gratitude": "Grateful for close friendships"
+      "gratitude": "Grateful for close friendships",
+      "VSaddress": "4243 John Marr Dr, Annandale, VA 22003",
+      "website": "https://www.tripadvisor.com"
     },
     {
       "entryNumber": 10,
@@ -165,10 +156,9 @@
       "physicalActivity": "Workout at the gym",
       "energyLevel": "High",
       "meals": ["Breakfast - Smoothie", "Lunch - Salad", "Dinner - Chicken Stir Fry"],
-      "socialInteractions": "Minimal, stayed focused",
-      "stressLevel": "Low",
-      "productivity": "Achieved a lot today",
-      "gratitude": "Grateful for motivation"
+      "gratitude": "Grateful for motivation",
+      "VSaddress": "16830 Dumfries Rd Unit 120, Dumfries, VA 22025",
+      "website": "https://www.goalsetter.com"
     }
   ],
   "Status": "OK"
