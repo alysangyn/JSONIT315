@@ -9,13 +9,13 @@
       "sleepQuality": "Good",
       "weather": "Sunny",
       "detailedEmotion": "Relaxed",
-      "selfCareActivity": "Meditation",
+      "selfCareActivity": "Online shopping",
       "physicalActivity": "Went for a jog",
       "energyLevel": "High",
       "meals": ["Breakfast - Pancakes", "Lunch - Salad", "Dinner - Pasta"],
       "gratitude": "Thankful for spending time with friends",
       "VSaddress": "13924 Metrotech Dr, Chantilly, VA 20151",
-      "JEwebsite": "https://www.meditationguide.com"
+      "JEwebsite": "https://sweetchilling.com/"
     },
     {
       "entryNumber": 2,
@@ -77,13 +77,13 @@
       "sleepQuality": "Good",
       "weather": "Clear",
       "detailedEmotion": "Content",
-      "selfCareActivity": "Spa day",
+      "selfCareActivity": "Scrapbooking",
       "physicalActivity": "Swimming",
       "energyLevel": "Moderate",
       "meals": ["Breakfast - Toast", "Lunch - Salad", "Dinner - Grilled Chicken"],
       "gratitude": "Thankful for a peaceful day",
       "VSaddress": "920 W Broad St, Falls Church, VA 22046",
-      "JEwebsite": "https://www.spaguide.com"
+      "JEwebsite": "https://www.canva.com/"
     },
     {
       "entryNumber": 6,
@@ -128,13 +128,13 @@
       "sleepQuality": "Poor",
       "weather": "Rainy",
       "detailedEmotion": "Worried",
-      "selfCareActivity": "Meditation",
+      "selfCareActivity": "Online shopping",
       "physicalActivity": "Yoga",
       "energyLevel": "Low",
       "meals": ["Breakfast - Cereal", "Lunch - Salad", "Dinner - Stir Fry"],
       "gratitude": "Grateful for completing the day",
       "VSaddress": "6920A Bradlick Shopping Ctr, Annandale, VA 22003",
-      "JEwebsite": "https://www.deadlinetips.com"
+      "JEwebsite": "https://us.brandymelville.com/"
     },
     {
       "entryNumber": 9,
@@ -151,7 +151,7 @@
       "meals": ["Breakfast - Eggs and Toast", "Lunch - Tacos", "Dinner - Pizza"],
       "gratitude": "Grateful for close friendships",
       "VSaddress": "4243 John Marr Dr, Annandale, VA 22003",
-      "JEwebsite": "https://www.partyideas.com"
+      "JEwebsite": "https://www.pinterest.com/"
     },
     {
       "entryNumber": 10,
