@@ -15,7 +15,7 @@
       "meals": ["Breakfast - Pancakes", "Lunch - Salad", "Dinner - Pasta"],
       "gratitude": "Thankful for spending time with friends",
       "VSaddress": "13924 Metrotech Dr, Chantilly, VA 20151",
-      "website": "https://www.meditationguide.com"
+      "JEwebsite": "https://www.meditationguide.com"
     },
     {
       "entryNumber": 2,
@@ -32,7 +32,7 @@
       "meals": ["Breakfast - Waffles", "Lunch - Sandwich", "Dinner - Soup"],
       "gratitude": "Grateful for my supportive family",
       "VSaddress": "14106 Lee Hwy, Centreville, VA 20120",
-      "website": "https://www.yogajournal.com"
+      "JEwebsite": "https://www.yogajournal.com"
     },
     {
       "entryNumber": 3,
@@ -49,7 +49,7 @@
       "meals": ["Breakfast - Smoothie", "Lunch - Burrito", "Dinner - Sushi"],
       "gratitude": "Thankful for opportunities",
       "VSaddress": "2910 District Ave, Fairfax, VA 22031",
-      "website": "https://www.goodreads.com"
+      "JEwebsite": "https://www.goodreads.com"
     },
     {
       "entryNumber": 4,
@@ -66,7 +66,7 @@
       "meals": ["Breakfast - Cereal", "Lunch - Pizza", "Dinner - Burger"],
       "gratitude": "Grateful for having time to relax in the evening",
       "VSaddress": "7112 Columbia Pike, Annandale, VA 22003",
-      "website": "https://www.stretchingexercises.com"
+      "JEwebsite": "https://www.stretchingexercises.com"
     },
     {
       "entryNumber": 5,
@@ -83,7 +83,7 @@
       "meals": ["Breakfast - Toast", "Lunch - Salad", "Dinner - Grilled Chicken"],
       "gratitude": "Thankful for a peaceful day",
       "VSaddress": "920 W Broad St, Falls Church, VA 22046",
-      "website": "https://www.spaguide.com"
+      "JEwebsite": "https://www.spaguide.com"
     },
     {
       "entryNumber": 6,
@@ -100,7 +100,7 @@
       "meals": ["Breakfast - Coffee and Bagel", "Lunch - Sandwich", "Dinner - Pasta"],
       "gratitude": "Grateful for a quiet evening",
       "VSaddress": "13915 Metrotech Dr, Chantilly, VA 20151",
-      "website": "https://www.booklovers.com"
+      "JEwebsite": "https://www.booklovers.com"
     },
     {
       "entryNumber": 7,
@@ -117,7 +117,7 @@
       "meals": ["Breakfast - Oatmeal", "Lunch - Grilled Cheese", "Dinner - Salmon"],
       "gratitude": "Grateful for supportive friends",
       "VSaddress": "5718 Pickwick Rd, Centreville, VA 20121",
-      "website": "https://www.projectplanner.com"
+      "JEwebsite": "https://www.projectplanner.com"
     },
     {
       "entryNumber": 8,
@@ -134,7 +134,7 @@
       "meals": ["Breakfast - Cereal", "Lunch - Salad", "Dinner - Stir Fry"],
       "gratitude": "Grateful for completing the day",
       "VSaddress": "6920A Bradlick Shopping Ctr, Annandale, VA 22003",
-      "website": "https://www.deadlinetips.com"
+      "JEwebsite": "https://www.deadlinetips.com"
     },
     {
       "entryNumber": 9,
@@ -151,7 +151,7 @@
       "meals": ["Breakfast - Eggs and Toast", "Lunch - Tacos", "Dinner - Pizza"],
       "gratitude": "Grateful for close friendships",
       "VSaddress": "4243 John Marr Dr, Annandale, VA 22003",
-      "website": "https://www.partyideas.com"
+      "JEwebsite": "https://www.partyideas.com"
     },
     {
       "entryNumber": 10,
@@ -168,7 +168,7 @@
       "meals": ["Breakfast - Smoothie", "Lunch - Salad", "Dinner - Chicken Stir Fry"],
       "gratitude": "Grateful for motivation",
       "VSaddress": "16830 Dumfries Rd Unit 120, Dumfries, VA 22025",
-      "website": "https://www.goaltracker.com"
+      "JEwebsite": "https://www.goaltracker.com"
     }
   ],
   "Status": "OK"
